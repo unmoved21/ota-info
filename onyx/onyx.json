@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1773507019,
+      "filename": "YAAP-16-HOMEMADE-onyx-20260314-Vanilla.zip",
+      "payload": [
+        {
+          "offset": 4657,
+          "FILE_HASH": "pQSjdrojjNW3r7fxAxIiNn/xoov1D5coKd535Dnx/bE=",
+          "FILE_SIZE": "3505454306",
+          "METADATA_HASH": "Dl+W3l92m+w1CbVFPL8EFQf/FfbLE+oVjKaBPO63ebw=",
+          "METADATA_SIZE": "187361"
+        }
+      ]
+    }
+  ]
+}
